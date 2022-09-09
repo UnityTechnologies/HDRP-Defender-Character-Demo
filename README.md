@@ -26,6 +26,9 @@ HairFX Core package only is also available on github [here](https://github.com/U
 ## Here’s what’s in the box
 - Defender character with Multi-Hair styles
 
+## Instruction
+1. Install [Git LFS](https://git-lfs.github.com/) on your machine
+2. Clone this repository to you local machine
 
 ## Note
 - The TressFX Exporter plugin for Maya is in Libray/PackageCache/cn.unity.hairfx.core/**Maya_TressFX_Exporter~** folder or download [here](https://github.com/Unity-China/cn.unity.hairfx.core/tree/main/Maya_TressFX_Exporter~)
