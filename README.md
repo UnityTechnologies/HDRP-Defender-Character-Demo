@@ -8,6 +8,10 @@
 
 **The technology stack is under Unity’s standard Asset Store EULA.**
 
+## Animation Demo 
+[YouTube](https://www.youtube.com/watch?v=YBtpv7ZdbB4)<br>
+[bilibili](https://www.bilibili.com/video/BV1g8411p78X/?spm_id_from=333.999.0.0&vd_source=94bf18aef4c51636d11191e668a9854c)
+
 ## Description
 
 This package includes a new strand base hair system that integrated from the AMD’s TressFX hair system. This hair system supports both Universal Render Pipeline (URP) and High Definition Render Pipeline (HDRP). Our goal is that this real-time strand hair simulation and rendering system support for cross platform from desktop computer, consoles to mobile devices.
